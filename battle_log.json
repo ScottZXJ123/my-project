@@ -59,9 +59,9 @@
             }
         ],
         "events": [
-            "<Event a34cb80169e248189dc946895163ed63: A used ability Frost on Y>",
-            "<Event c624d769634b44bf8075bcc123a53647: D used ability Shield Bash on X>",
-            "<Event 8892211a1d8d45ec9c517d43d8b907d3: X used ability Rejuvenate on C>"
+            "<Event 29d553fc55694ef9abc8bd7cadb52b75: A used ability Frost on Y>",
+            "<Event 2426dbfbc7af4cd3b99eff75df628bfc: D used ability Shield Bash on X>",
+            "<Event f61b1667f57c4b62bfbf11c577693439: X used ability Rejuvenate on C>"
         ]
     },
     {
@@ -119,10 +119,10 @@
             "Y is affected by Freeze (0)"
         ],
         "events": [
-            "<Event 87f3a358eecc4ad2883a23175e9c8206: C used ability Fireball on X>",
-            "<Event 62bbaa1fa6ad4fe3a907f2a07baa6958: Critical hit by W on D for extra 5>",
-            "<Event ef79d7ba3a974b10a8d9b1164879f850: Critical hit by Z on A for extra 5>",
-            "<Event a0821e6ef9b84104bab3cf2d550084cb: Y used ability Quick Strike on A>"
+            "<Event 24162cb401d14b9282f47d374829ed27: C used ability Fireball on X>",
+            "<Event 15cde86f97d2472dbd7600e30ec4f506: Critical hit by W on D for extra 5>",
+            "<Event cf3653b18de4464f8cbe5d5be67e21ff: Critical hit by Z on A for extra 5>",
+            "<Event acae4c567e7247a287ab7389705d620d: Y used ability Quick Strike on A>"
         ]
     },
     {
@@ -168,7 +168,7 @@
             "X is affected by Poison (2)"
         ],
         "events": [
-            "<Event 0972e8d2a00e451687d4371b4a0beb81: Critical hit by X on C for extra 6>"
+            "<Event b7176a4daf7a40c9977413599d529102: Critical hit by X on C for extra 6>"
         ]
     },
     {
@@ -216,8 +216,8 @@
             "X is affected by Poison (2)"
         ],
         "events": [
-            "<Event 6d5f4de909bf49f19965c3eb0c76d9e0: C used ability Quick Strike on X>",
-            "<Event 0c5071b2598f4b83a4d65eef923ebf02: Critical hit by Z on C for extra 5>"
+            "<Event 682cbcedc64a447ea05c6910266185da: C used ability Quick Strike on X>",
+            "<Event e661754f6d434a9f84fe695f343b9476: Critical hit by Z on C for extra 5>"
         ]
     },
     {
@@ -269,10 +269,10 @@
             "X is affected by Poison (2)"
         ],
         "events": [
-            "<Event e62cb02691074e6fb9ebaefc64f78274: C used ability Earthquake on X>",
-            "<Event 25ba12ec97d94b57903d50096cc178f5: Critical hit by W on D for extra 5>",
-            "<Event 5f7b9a47ea1a4f0c9d416273a455b31d: Z used ability Quick Strike on C>",
-            "<Event eca91270e1e44e72985e81cc6b653266: D used ability Shield Bash on X>"
+            "<Event 9cd90e0a2d644b44b6e4ef8379c333fc: C used ability Earthquake on X>",
+            "<Event 65761c54097641d181195ec7fe86e5c6: Critical hit by W on D for extra 5>",
+            "<Event 2a3651b076fc4939842000c0d116a209: Z used ability Quick Strike on C>",
+            "<Event 2fee80f097034a6fa783e62ebc2fdfeb: D used ability Shield Bash on X>"
         ]
     },
     {
@@ -312,9 +312,9 @@
             }
         ],
         "events": [
-            "<Event aff3bd2a089d430092da40b1921850f5: C used ability Fireball on Z>",
-            "<Event 05508871ad0c4cec92255d689efae6a5: W used ability Heal on C>",
-            "<Event 54f9559c490e4935b1b6297125203faa: Critical hit by D on X for extra 5>"
+            "<Event 94200c6f23534a2c8aa0d305305f2283: C used ability Fireball on Z>",
+            "<Event afbaffbda9104139a71375f0ff11386e: W used ability Heal on C>",
+            "<Event 097fb8591a3741f7a221a38e7cd7c12c: Critical hit by D on X for extra 5>"
         ]
     },
     {
@@ -343,7 +343,7 @@
             }
         ],
         "events": [
-            "<Event c0c5d0f25a434ebb83696f5839cc54ec: W's attack missed D>"
+            "<Event b1433f8df14146ddbb42eb7eee10d5c4: W's attack missed D>"
         ]
     },
     {
@@ -365,7 +365,7 @@
             }
         ],
         "events": [
-            "<Event cebd1ac6b6864ae09e458081649f723f: Critical hit by D on X for extra 5>"
+            "<Event 453005355e2f4cf391e831c5d74f4208: Critical hit by D on X for extra 5>"
         ]
     },
     {
@@ -406,7 +406,7 @@
             }
         ],
         "events": [
-            "<Event 569d84d4e7234a63ae1621fd4ae4a395: W's attack missed D>"
+            "<Event 7d83dc35ca484329ac8491afa7bb22e7: W's attack missed D>"
         ]
     },
     {
@@ -428,7 +428,7 @@
             }
         ],
         "events": [
-            "<Event 63887c1bae114d2bb748a418b9e2aff1: W's attack missed D>"
+            "<Event cc9617a5f3c64bc58210a8b2d6cb3d80: W's attack missed D>"
         ]
     },
     {
@@ -452,8 +452,8 @@
             }
         ],
         "events": [
-            "<Event b2d9f2fcb94e489885510191c0e7159d: W used ability Heal on D>",
-            "<Event 252795d49b6643969889246f9281cb83: D's attack missed W>"
+            "<Event e3318d5f43c742da97766a62440de3a3: W used ability Heal on D>",
+            "<Event b034614e2821463c8a8ad1cfdd324633: D's attack missed W>"
         ]
     },
     {
@@ -480,8 +480,8 @@
             "D is affected by Heal (4)"
         ],
         "events": [
-            "<Event 6a8f1627c8634b77b6f1faa021ae2572: Critical hit by W on D for extra 5>",
-            "<Event 9865a6512761441bbce91e048df9e7f9: D used ability Frost on W>"
+            "<Event 41dfafb40c414f0a90a21e42a3667d09: Critical hit by W on D for extra 5>",
+            "<Event bde3a0da4217426985a0dc8ceb951cb4: D used ability Frost on W>"
         ]
     },
     {
@@ -508,8 +508,8 @@
             "W is affected by Freeze (0)"
         ],
         "events": [
-            "<Event 2b5b77b30ea94bd8bc55d3d562f054c2: W's attack missed D>",
-            "<Event a375b694564445858f2f036499151493: D used ability Shield Bash on W>"
+            "<Event 6c44a870e7ee471e80f8da21fca9408e: W's attack missed D>",
+            "<Event 08403c677ed04e16b1c12a8b6c610dc5: D used ability Shield Bash on W>"
         ]
     },
     {
@@ -533,7 +533,7 @@
             }
         ],
         "events": [
-            "<Event 906e0d6bd6e44d05b0ee68e49f56d479: D used ability Shield Bash on W>"
+            "<Event d0a0d9cbd514460aa85b64627bf88fd9: D used ability Shield Bash on W>"
         ]
     },
     {
@@ -555,7 +555,7 @@
             }
         ],
         "events": [
-            "<Event 5370b0de644d4279a678d1218d448588: D's attack missed W>"
+            "<Event b2ac785bed064798a311363162155bbb: D's attack missed W>"
         ]
     },
     {
@@ -577,7 +577,7 @@
             }
         ],
         "events": [
-            "<Event 1f794eab129d4057b2d1beb01e84fd89: Critical hit by D on W for extra 5>"
+            "<Event 2e16908ba5514911973e53d70205863f: Critical hit by D on W for extra 5>"
         ]
     },
     {
@@ -601,7 +601,7 @@
             }
         ],
         "events": [
-            "<Event 0d82dcf5437e4e80836ffb8c53edd922: D used ability Shield Bash on W>"
+            "<Event 6736720cde8641f6b2f9c62db6430a9b: D used ability Shield Bash on W>"
         ]
     },
     {
@@ -625,7 +625,7 @@
             }
         ],
         "events": [
-            "<Event 9b7aae4ba8d94ceba2e7d28233021b19: W used ability Magic Missile on D>"
+            "<Event 9ad6b73fac8a46178972ad5153e9057c: W used ability Magic Missile on D>"
         ]
     },
     {
@@ -647,7 +647,7 @@
             }
         ],
         "events": [
-            "<Event 3dbf1da47872442cbe84575b437cd065: Critical hit by W on D for extra 5>"
+            "<Event 218c162661444619b5866db01eb89568: Critical hit by W on D for extra 5>"
         ]
     },
     {

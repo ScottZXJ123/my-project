@@ -8,8 +8,6 @@ battle simulation. The game engine logs each action and event into a confrontati
 log. Once the battle is complete, the engine writes the battle log and basic team
 information into JSON files. The engine has no knowledge of any hidden strategy
 library (which is only used later during scoring).
-
-The file includes extended dummy code sections to simulate a codebase of ~1000 lines.
 """
 
 import random
