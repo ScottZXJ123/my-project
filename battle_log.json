@@ -1,0 +1,669 @@
+[
+    {
+        "turn_number": 1,
+        "actions": [
+            {
+                "actor": "C",
+                "action": "attack",
+                "target": "X",
+                "damage": 1,
+                "extra": []
+            },
+            {
+                "actor": "W",
+                "action": "attack",
+                "target": "B",
+                "damage": 6,
+                "extra": []
+            },
+            {
+                "actor": "Z",
+                "action": "attack",
+                "target": "D",
+                "damage": 1,
+                "extra": []
+            },
+            {
+                "actor": "Y",
+                "action": "attack",
+                "target": "B",
+                "damage": 35,
+                "extra": []
+            },
+            {
+                "actor": "A",
+                "action": "use ability Frost",
+                "target": "Y",
+                "damage": 11,
+                "extra": [
+                    "ability event logged"
+                ]
+            },
+            {
+                "actor": "D",
+                "action": "use ability Shield Bash",
+                "target": "X",
+                "damage": 1,
+                "extra": [
+                    "ability event logged"
+                ]
+            },
+            {
+                "actor": "X",
+                "action": "use ability Rejuvenate",
+                "target": "C",
+                "damage": 1,
+                "extra": [
+                    "ability event logged"
+                ]
+            }
+        ],
+        "events": [
+            "<Event a34cb80169e248189dc946895163ed63: A used ability Frost on Y>",
+            "<Event c624d769634b44bf8075bcc123a53647: D used ability Shield Bash on X>",
+            "<Event 8892211a1d8d45ec9c517d43d8b907d3: X used ability Rejuvenate on C>"
+        ]
+    },
+    {
+        "turn_number": 2,
+        "actions": [
+            {
+                "actor": "C",
+                "action": "use ability Fireball",
+                "target": "X",
+                "damage": 5,
+                "extra": [
+                    "ability event logged"
+                ]
+            },
+            {
+                "actor": "W",
+                "action": "attack",
+                "target": "D",
+                "damage": 6,
+                "extra": []
+            },
+            {
+                "actor": "Z",
+                "action": "attack",
+                "target": "A",
+                "damage": 11,
+                "extra": []
+            },
+            {
+                "actor": "Y",
+                "action": "use ability Quick Strike",
+                "target": "A",
+                "damage": 39,
+                "extra": [
+                    "ability event logged"
+                ]
+            },
+            {
+                "actor": "D",
+                "action": "attack",
+                "target": "Y",
+                "damage": 6,
+                "extra": []
+            },
+            {
+                "actor": "X",
+                "action": "attack",
+                "target": "D",
+                "damage": 1,
+                "extra": []
+            }
+        ],
+        "status_effects": [
+            "C is affected by Heal (4)",
+            "Y is affected by Freeze (0)"
+        ],
+        "events": [
+            "<Event 87f3a358eecc4ad2883a23175e9c8206: C used ability Fireball on X>",
+            "<Event 62bbaa1fa6ad4fe3a907f2a07baa6958: Critical hit by W on D for extra 5>",
+            "<Event ef79d7ba3a974b10a8d9b1164879f850: Critical hit by Z on A for extra 5>",
+            "<Event a0821e6ef9b84104bab3cf2d550084cb: Y used ability Quick Strike on A>"
+        ]
+    },
+    {
+        "turn_number": 3,
+        "actions": [
+            {
+                "actor": "C",
+                "action": "attack",
+                "target": "Y",
+                "damage": 25,
+                "extra": []
+            },
+            {
+                "actor": "W",
+                "action": "attack",
+                "target": "D",
+                "damage": 1,
+                "extra": []
+            },
+            {
+                "actor": "Z",
+                "action": "attack",
+                "target": "C",
+                "damage": 1,
+                "extra": []
+            },
+            {
+                "actor": "D",
+                "action": "attack",
+                "target": "X",
+                "damage": 1,
+                "extra": []
+            },
+            {
+                "actor": "X",
+                "action": "attack",
+                "target": "C",
+                "damage": 7,
+                "extra": []
+            }
+        ],
+        "status_effects": [
+            "X is affected by Poison (2)"
+        ],
+        "events": [
+            "<Event 0972e8d2a00e451687d4371b4a0beb81: Critical hit by X on C for extra 6>"
+        ]
+    },
+    {
+        "turn_number": 4,
+        "actions": [
+            {
+                "actor": "C",
+                "action": "use ability Quick Strike",
+                "target": "X",
+                "damage": 3,
+                "extra": [
+                    "ability event logged"
+                ]
+            },
+            {
+                "actor": "W",
+                "action": "attack",
+                "target": "C",
+                "damage": 1,
+                "extra": []
+            },
+            {
+                "actor": "Z",
+                "action": "attack",
+                "target": "C",
+                "damage": 6,
+                "extra": []
+            },
+            {
+                "actor": "D",
+                "action": "attack",
+                "target": "Z",
+                "damage": 5,
+                "extra": []
+            },
+            {
+                "actor": "X",
+                "action": "attack",
+                "target": "C",
+                "damage": 1,
+                "extra": []
+            }
+        ],
+        "status_effects": [
+            "X is affected by Poison (2)"
+        ],
+        "events": [
+            "<Event 6d5f4de909bf49f19965c3eb0c76d9e0: C used ability Quick Strike on X>",
+            "<Event 0c5071b2598f4b83a4d65eef923ebf02: Critical hit by Z on C for extra 5>"
+        ]
+    },
+    {
+        "turn_number": 5,
+        "actions": [
+            {
+                "actor": "C",
+                "action": "use ability Earthquake",
+                "target": "X",
+                "damage": 7,
+                "extra": [
+                    "ability event logged"
+                ]
+            },
+            {
+                "actor": "W",
+                "action": "attack",
+                "target": "D",
+                "damage": 6,
+                "extra": []
+            },
+            {
+                "actor": "Z",
+                "action": "use ability Quick Strike",
+                "target": "C",
+                "damage": 1,
+                "extra": [
+                    "ability event logged"
+                ]
+            },
+            {
+                "actor": "D",
+                "action": "use ability Shield Bash",
+                "target": "X",
+                "damage": 1,
+                "extra": [
+                    "ability event logged"
+                ]
+            },
+            {
+                "actor": "X",
+                "action": "attack",
+                "target": "C",
+                "damage": 1,
+                "extra": []
+            }
+        ],
+        "status_effects": [
+            "X is affected by Poison (2)"
+        ],
+        "events": [
+            "<Event e62cb02691074e6fb9ebaefc64f78274: C used ability Earthquake on X>",
+            "<Event 25ba12ec97d94b57903d50096cc178f5: Critical hit by W on D for extra 5>",
+            "<Event 5f7b9a47ea1a4f0c9d416273a455b31d: Z used ability Quick Strike on C>",
+            "<Event eca91270e1e44e72985e81cc6b653266: D used ability Shield Bash on X>"
+        ]
+    },
+    {
+        "turn_number": 6,
+        "actions": [
+            {
+                "actor": "C",
+                "action": "use ability Fireball",
+                "target": "Z",
+                "damage": 29,
+                "extra": [
+                    "ability event logged"
+                ]
+            },
+            {
+                "actor": "W",
+                "action": "use ability Heal",
+                "target": "C",
+                "damage": 1,
+                "extra": [
+                    "ability event logged"
+                ]
+            },
+            {
+                "actor": "D",
+                "action": "attack",
+                "target": "X",
+                "damage": 6,
+                "extra": []
+            },
+            {
+                "actor": "X",
+                "action": "attack",
+                "target": "D",
+                "damage": 1,
+                "extra": []
+            }
+        ],
+        "events": [
+            "<Event aff3bd2a089d430092da40b1921850f5: C used ability Fireball on Z>",
+            "<Event 05508871ad0c4cec92255d689efae6a5: W used ability Heal on C>",
+            "<Event 54f9559c490e4935b1b6297125203faa: Critical hit by D on X for extra 5>"
+        ]
+    },
+    {
+        "turn_number": 7,
+        "actions": [
+            {
+                "actor": "W",
+                "action": "attack (missed)",
+                "target": "D",
+                "damage": 0,
+                "extra": []
+            },
+            {
+                "actor": "D",
+                "action": "attack",
+                "target": "X",
+                "damage": 1,
+                "extra": []
+            },
+            {
+                "actor": "X",
+                "action": "attack",
+                "target": "D",
+                "damage": 1,
+                "extra": []
+            }
+        ],
+        "events": [
+            "<Event c0c5d0f25a434ebb83696f5839cc54ec: W's attack missed D>"
+        ]
+    },
+    {
+        "turn_number": 8,
+        "actions": [
+            {
+                "actor": "W",
+                "action": "attack",
+                "target": "D",
+                "damage": 1,
+                "extra": []
+            },
+            {
+                "actor": "D",
+                "action": "attack",
+                "target": "X",
+                "damage": 6,
+                "extra": []
+            }
+        ],
+        "events": [
+            "<Event cebd1ac6b6864ae09e458081649f723f: Critical hit by D on X for extra 5>"
+        ]
+    },
+    {
+        "turn_number": 9,
+        "actions": [
+            {
+                "actor": "W",
+                "action": "attack",
+                "target": "D",
+                "damage": 1,
+                "extra": []
+            },
+            {
+                "actor": "D",
+                "action": "attack",
+                "target": "W",
+                "damage": 1,
+                "extra": []
+            }
+        ]
+    },
+    {
+        "turn_number": 10,
+        "actions": [
+            {
+                "actor": "W",
+                "action": "attack (missed)",
+                "target": "D",
+                "damage": 0,
+                "extra": []
+            },
+            {
+                "actor": "D",
+                "action": "attack",
+                "target": "W",
+                "damage": 1,
+                "extra": []
+            }
+        ],
+        "events": [
+            "<Event 569d84d4e7234a63ae1621fd4ae4a395: W's attack missed D>"
+        ]
+    },
+    {
+        "turn_number": 11,
+        "actions": [
+            {
+                "actor": "W",
+                "action": "attack (missed)",
+                "target": "D",
+                "damage": 0,
+                "extra": []
+            },
+            {
+                "actor": "D",
+                "action": "attack",
+                "target": "W",
+                "damage": 1,
+                "extra": []
+            }
+        ],
+        "events": [
+            "<Event 63887c1bae114d2bb748a418b9e2aff1: W's attack missed D>"
+        ]
+    },
+    {
+        "turn_number": 12,
+        "actions": [
+            {
+                "actor": "W",
+                "action": "use ability Heal",
+                "target": "D",
+                "damage": 1,
+                "extra": [
+                    "ability event logged"
+                ]
+            },
+            {
+                "actor": "D",
+                "action": "attack (missed)",
+                "target": "W",
+                "damage": 0,
+                "extra": []
+            }
+        ],
+        "events": [
+            "<Event b2d9f2fcb94e489885510191c0e7159d: W used ability Heal on D>",
+            "<Event 252795d49b6643969889246f9281cb83: D's attack missed W>"
+        ]
+    },
+    {
+        "turn_number": 13,
+        "actions": [
+            {
+                "actor": "W",
+                "action": "attack",
+                "target": "D",
+                "damage": 6,
+                "extra": []
+            },
+            {
+                "actor": "D",
+                "action": "use ability Frost",
+                "target": "W",
+                "damage": 1,
+                "extra": [
+                    "ability event logged"
+                ]
+            }
+        ],
+        "status_effects": [
+            "D is affected by Heal (4)"
+        ],
+        "events": [
+            "<Event 6a8f1627c8634b77b6f1faa021ae2572: Critical hit by W on D for extra 5>",
+            "<Event 9865a6512761441bbce91e048df9e7f9: D used ability Frost on W>"
+        ]
+    },
+    {
+        "turn_number": 14,
+        "actions": [
+            {
+                "actor": "W",
+                "action": "attack (missed)",
+                "target": "D",
+                "damage": 0,
+                "extra": []
+            },
+            {
+                "actor": "D",
+                "action": "use ability Shield Bash",
+                "target": "W",
+                "damage": 1,
+                "extra": [
+                    "ability event logged"
+                ]
+            }
+        ],
+        "status_effects": [
+            "W is affected by Freeze (0)"
+        ],
+        "events": [
+            "<Event 2b5b77b30ea94bd8bc55d3d562f054c2: W's attack missed D>",
+            "<Event a375b694564445858f2f036499151493: D used ability Shield Bash on W>"
+        ]
+    },
+    {
+        "turn_number": 15,
+        "actions": [
+            {
+                "actor": "W",
+                "action": "attack",
+                "target": "D",
+                "damage": 1,
+                "extra": []
+            },
+            {
+                "actor": "D",
+                "action": "use ability Shield Bash",
+                "target": "W",
+                "damage": 1,
+                "extra": [
+                    "ability event logged"
+                ]
+            }
+        ],
+        "events": [
+            "<Event 906e0d6bd6e44d05b0ee68e49f56d479: D used ability Shield Bash on W>"
+        ]
+    },
+    {
+        "turn_number": 16,
+        "actions": [
+            {
+                "actor": "W",
+                "action": "attack",
+                "target": "D",
+                "damage": 1,
+                "extra": []
+            },
+            {
+                "actor": "D",
+                "action": "attack (missed)",
+                "target": "W",
+                "damage": 0,
+                "extra": []
+            }
+        ],
+        "events": [
+            "<Event 5370b0de644d4279a678d1218d448588: D's attack missed W>"
+        ]
+    },
+    {
+        "turn_number": 17,
+        "actions": [
+            {
+                "actor": "W",
+                "action": "attack",
+                "target": "D",
+                "damage": 1,
+                "extra": []
+            },
+            {
+                "actor": "D",
+                "action": "attack",
+                "target": "W",
+                "damage": 6,
+                "extra": []
+            }
+        ],
+        "events": [
+            "<Event 1f794eab129d4057b2d1beb01e84fd89: Critical hit by D on W for extra 5>"
+        ]
+    },
+    {
+        "turn_number": 18,
+        "actions": [
+            {
+                "actor": "W",
+                "action": "attack",
+                "target": "D",
+                "damage": 1,
+                "extra": []
+            },
+            {
+                "actor": "D",
+                "action": "use ability Shield Bash",
+                "target": "W",
+                "damage": 1,
+                "extra": [
+                    "ability event logged"
+                ]
+            }
+        ],
+        "events": [
+            "<Event 0d82dcf5437e4e80836ffb8c53edd922: D used ability Shield Bash on W>"
+        ]
+    },
+    {
+        "turn_number": 19,
+        "actions": [
+            {
+                "actor": "W",
+                "action": "use ability Magic Missile",
+                "target": "D",
+                "damage": 1,
+                "extra": [
+                    "ability event logged"
+                ]
+            },
+            {
+                "actor": "D",
+                "action": "attack",
+                "target": "W",
+                "damage": 1,
+                "extra": []
+            }
+        ],
+        "events": [
+            "<Event 9b7aae4ba8d94ceba2e7d28233021b19: W used ability Magic Missile on D>"
+        ]
+    },
+    {
+        "turn_number": 20,
+        "actions": [
+            {
+                "actor": "W",
+                "action": "attack",
+                "target": "D",
+                "damage": 6,
+                "extra": []
+            },
+            {
+                "actor": "D",
+                "action": "attack",
+                "target": "W",
+                "damage": 1,
+                "extra": []
+            }
+        ],
+        "events": [
+            "<Event 3dbf1da47872442cbe84575b437cd065: Critical hit by W on D for extra 5>"
+        ]
+    },
+    {
+        "turn_number": 21,
+        "actions": [
+            {
+                "actor": "W",
+                "action": "idle",
+                "target": null,
+                "damage": 0,
+                "extra": []
+            }
+        ]
+    },
+    {
+        "battle_result": "Team Team_B wins!",
+        "final_turn": 21
+    }
+]
